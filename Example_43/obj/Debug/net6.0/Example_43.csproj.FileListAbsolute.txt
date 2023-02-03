@@ -1,0 +1,15 @@
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\Example_43.csproj.AssemblyReference.cache
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\Example_43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\Example_43.AssemblyInfoInputs.cache
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\Example_43.AssemblyInfo.cs
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\Example_43.csproj.CoreCompileInputs.cache
+D:\Git projects\Home_work_6\Example_43\bin\Debug\net6.0\Example_43.exe
+D:\Git projects\Home_work_6\Example_43\bin\Debug\net6.0\Example_43.deps.json
+D:\Git projects\Home_work_6\Example_43\bin\Debug\net6.0\Example_43.runtimeconfig.json
+D:\Git projects\Home_work_6\Example_43\bin\Debug\net6.0\Example_43.dll
+D:\Git projects\Home_work_6\Example_43\bin\Debug\net6.0\Example_43.pdb
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\Example_43.dll
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\refint\Example_43.dll
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\Example_43.pdb
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\Example_43.genruntimeconfig.cache
+D:\Git projects\Home_work_6\Example_43\obj\Debug\net6.0\ref\Example_43.dll
